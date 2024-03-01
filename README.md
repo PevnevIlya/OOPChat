@@ -6,8 +6,8 @@ Pevnev Ilya, group 253504
 This project is a mobile app written om kotlin for chatting with yout friends. 
 
 You also can choose a fraction, an aliance or hord, it dependes on whether you can see messages without transcription.
+![OOP](https://github.com/PevnevIlya/OOPChat/assets/119447925/2789339e-9c4b-49f5-b083-bcbbfd975425)
 
-![OOP](https://github.com/PevnevIlya/OOPChat/assets/119447925/d62a8ca8-6ab0-439a-b0c3-bfdb3968271a)
 Model description:
 
 User-contains id, name, password, type and list of Chats.
